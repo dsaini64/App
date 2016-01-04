@@ -11,9 +11,8 @@ import UIKit
 class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
-        super.viewDidLoad
+        super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        // This is a change to the file. Delete afterwards
     }
 
     override func didReceiveMemoryWarning() {
